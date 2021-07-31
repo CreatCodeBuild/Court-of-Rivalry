@@ -1,7 +1,5 @@
 # 朝野之争游戏规则
 
-[初代规则](https://docs.google.com/document/d/1tfDkjrg-ZBIjJYKp2PJEsDaVIgH63lgc2h55RWRLIws)
-
 ## 角色
 ### 皇帝：
 仅限始皇帝，后来登基的保留之前角色的属性  
